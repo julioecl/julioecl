@@ -1,4 +1,4 @@
-<strong>Oi, eu sou o Julio Emílio.</strong>
+## Oi, eu sou o Julio Emílio.
 
 <div>
   <a href="https://github.com/julioecl">
