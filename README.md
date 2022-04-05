@@ -1,4 +1,4 @@
-Esse é o perfil de Julio Emílio.
+Oi, eu sou o Julio Emílio.
 
 <div>
   <a href="https://github.com/julioecl">
